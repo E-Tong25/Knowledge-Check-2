@@ -1,0 +1,15 @@
+/Users/elizabethtong/Projects/KnowledgeCheck2/KnowledgeCheck2/obj/Debug/net7.0/KnowledgeCheck2.csproj.AssemblyReference.cache
+/Users/elizabethtong/Projects/KnowledgeCheck2/KnowledgeCheck2/obj/Debug/net7.0/KnowledgeCheck2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizabethtong/Projects/KnowledgeCheck2/KnowledgeCheck2/obj/Debug/net7.0/KnowledgeCheck2.AssemblyInfoInputs.cache
+/Users/elizabethtong/Projects/KnowledgeCheck2/KnowledgeCheck2/obj/Debug/net7.0/KnowledgeCheck2.AssemblyInfo.cs
+/Users/elizabethtong/Projects/KnowledgeCheck2/KnowledgeCheck2/obj/Debug/net7.0/KnowledgeCheck2.csproj.CoreCompileInputs.cache
+/Users/elizabethtong/Projects/KnowledgeCheck2/KnowledgeCheck2/bin/Debug/net7.0/KnowledgeCheck2
+/Users/elizabethtong/Projects/KnowledgeCheck2/KnowledgeCheck2/bin/Debug/net7.0/KnowledgeCheck2.deps.json
+/Users/elizabethtong/Projects/KnowledgeCheck2/KnowledgeCheck2/bin/Debug/net7.0/KnowledgeCheck2.runtimeconfig.json
+/Users/elizabethtong/Projects/KnowledgeCheck2/KnowledgeCheck2/bin/Debug/net7.0/KnowledgeCheck2.dll
+/Users/elizabethtong/Projects/KnowledgeCheck2/KnowledgeCheck2/bin/Debug/net7.0/KnowledgeCheck2.pdb
+/Users/elizabethtong/Projects/KnowledgeCheck2/KnowledgeCheck2/obj/Debug/net7.0/KnowledgeCheck2.dll
+/Users/elizabethtong/Projects/KnowledgeCheck2/KnowledgeCheck2/obj/Debug/net7.0/refint/KnowledgeCheck2.dll
+/Users/elizabethtong/Projects/KnowledgeCheck2/KnowledgeCheck2/obj/Debug/net7.0/KnowledgeCheck2.pdb
+/Users/elizabethtong/Projects/KnowledgeCheck2/KnowledgeCheck2/obj/Debug/net7.0/KnowledgeCheck2.genruntimeconfig.cache
+/Users/elizabethtong/Projects/KnowledgeCheck2/KnowledgeCheck2/obj/Debug/net7.0/ref/KnowledgeCheck2.dll
